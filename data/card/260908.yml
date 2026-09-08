@@ -5,13 +5,13 @@ about:
   head: cf63d74
   archived: false
   latestVersion: "0.29.0"
-  collectedAt: 2026-09-08T01:43:18Z
+  collectedAt: 2026-09-08T04:28:30Z
 timeline:
   created: 2014-03-28
   lastCommit: 2026-07-20
   lastRelease: 2025-03-08
 popularity:
-  star: 1809
+  star: 1810
   watcher: 15
   fork: 51
   release: 41
@@ -83,7 +83,7 @@ total:
   commit: 880
 ---
 path: /home/runner/.x-repo/github.com/cmang/durdraw
-collectedAt: 2026-09-08T01:43:20Z
+collectedAt: 2026-09-08T04:28:32Z
 loc:
   Python:
     code: 10457
