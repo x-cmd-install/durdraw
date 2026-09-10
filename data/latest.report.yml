@@ -7,7 +7,7 @@ about:
   latestVersion: "0.30.0"
   latestRelease: "0.30.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:08:02Z
+  collectedAt: 2026-09-10T23:36:06Z
 timeline:
   created: 2014-03-28
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 
 popularity:
-  star: 1812
+  star: 1813
   watcher: 15
   fork: 51
   release: 42
@@ -88,7 +88,7 @@ total:
   commit: 1033
 ---
 path: /home/runner/.x-repo/github.com/cmang/durdraw
-collectedAt: 2026-09-10T20:08:06Z
+collectedAt: 2026-09-10T23:36:08Z
 loc:
   Python:
     code: 12908
