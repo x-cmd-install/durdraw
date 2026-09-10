@@ -4,7 +4,7 @@
 
 Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes
 
-![durdraw](https://repo.x-cmd.io/durdraw.svg)
+![durdraw](https://repo.x-cmd.io/durdraw.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,6 @@ x install durdraw
 
 - **最新版本**: `0.30.0` (2026-09-08)
 - **最近提交**: 2026-09-09
-- **发布时间**: 2026-09-08T07:07:12Z
 
 ## 流行度
 
@@ -61,4 +60,4 @@ durdraw 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:37:36Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:21:00Z._
