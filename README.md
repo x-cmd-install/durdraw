@@ -37,7 +37,7 @@ Total: **14,092** lines of code across **84** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,812 · **Forks**: 51 · **Open issues**: 42 · **Contributors**: 11
+- **Stars**: 1,813 · **Forks**: 51 · **Open issues**: 42 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -76,4 +76,4 @@ Install metadata for durdraw lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:08:14Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:36:13Z._
