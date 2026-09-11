@@ -14,11 +14,11 @@ x install durdraw
 
 ## Code insight
 
-Total: **14,099** lines of code across **84** files in the top 5 languages.
+Total: **14,226** lines of code across **85** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 12,908 | 2,195 | 1,499 | 56 |
+| Python | 13,035 | 2,206 | 1,533 | 57 |
 | Ini | 690 | 233 | 102 | 25 |
 | Xml | 330 | 0 | 0 | 1 |
 | Toml | 59 | 1 | 8 | 1 |
@@ -37,11 +37,11 @@ Total: **14,099** lines of code across **84** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,813 · **Forks**: 51 · **Open issues**: 42 · **Contributors**: 11
+- **Stars**: 1,814 · **Forks**: 51 · **Open issues**: 42 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 67 · **Open PRs**: 0 · **Closed issues**: 38 · **Open issues**: 4 · **Commits**: 1037
+- **Releases**: 43 · **Merged PRs**: 68 · **Open PRs**: 0 · **Closed issues**: 38 · **Open issues**: 4 · **Commits**: 1041
 
 ## Recent activity
 
@@ -56,16 +56,16 @@ Total: **14,099** lines of code across **84** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **27** distros on [repology.org](https://repology.org/project/durdraw). **4** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
+Reported by **27** distros on [repology.org](https://repology.org/project/durdraw). **1** are ✅ on the latest upstream release, **24** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `0.30.0` | ✅ latest |
+| Debian unstable | `0.30.0` | ⚠️ outdated |
 | Debian 14 | `0.29.0` | ⚠️ outdated |
 | Debian 13 | `0.29.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.29.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.25.3` | ⚠️ outdated |
-| Homebrew | `0.30.0` | ✅ latest |
+| Homebrew | `0.30.1` | ✅ latest |
 
 ## Improve this data
 
@@ -76,4 +76,4 @@ Install metadata for durdraw lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:37:18Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:31:44Z._

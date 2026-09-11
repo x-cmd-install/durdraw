@@ -14,11 +14,11 @@ x install durdraw
 
 ## 代码洞察
 
-合计: **14,099** 行代码（覆盖前 5 种语言、共 **84** 个文件）。
+合计: **14,226** 行代码（覆盖前 5 种语言、共 **85** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 12,908 | 2,195 | 1,499 | 56 |
+| Python | 13,035 | 2,206 | 1,533 | 57 |
 | Ini | 690 | 233 | 102 | 25 |
 | Xml | 330 | 0 | 0 | 1 |
 | Toml | 59 | 1 | 8 | 1 |
@@ -37,11 +37,11 @@ x install durdraw
 
 ## 流行度
 
-- **Star**: 1,813 · **Fork**: 51 · **开放 issue**: 42 · **贡献者**: 11
+- **Star**: 1,814 · **Fork**: 51 · **开放 issue**: 42 · **贡献者**: 11
 
 ## 累计统计
 
-- **发布数**: 43 · **已合并 PR**: 67 · **开放 PR**: 0 · **已关闭 issue**: 38 · **开放 issue**: 4 · **提交数**: 1037
+- **发布数**: 43 · **已合并 PR**: 68 · **开放 PR**: 0 · **已关闭 issue**: 38 · **开放 issue**: 4 · **提交数**: 1041
 
 ## 最近活动
 
@@ -56,16 +56,16 @@ x install durdraw
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/durdraw) 上共有 **27** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**21** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/durdraw) 上共有 **27** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**24** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Debian unstable | `0.30.0` | ✅ latest |
+| Debian unstable | `0.30.0` | ⚠️ outdated |
 | Debian 14 | `0.29.0` | ⚠️ outdated |
 | Debian 13 | `0.29.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.29.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.25.3` | ⚠️ outdated |
-| Homebrew | `0.30.0` | ✅ latest |
+| Homebrew | `0.30.1` | ✅ latest |
 
 ## 改进这些数据
 
@@ -76,4 +76,4 @@ durdraw 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T04:37:18Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T20:31:44Z._
