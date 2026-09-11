@@ -1,3 +1,170 @@
+- repo: kali_rolling
+  subrepo: main
+  srcname: durdraw
+  binnames:
+    - durdraw
+  visiblename: durdraw
+  version: 0.29.0
+  origversion: 0.29.0-4
+  status: outdated
+  maintainers:
+    - tar@debian.org
+  categories:
+    - misc
+- repo: aur
+  srcname: durdraw
+  binname: durdraw
+  visiblename: durdraw
+  version: 0.29.0
+  origversion: 0.29.0-2
+  status: outdated
+  summary: Frame based ASCII and ANSI drawing and playback program
+  maintainers:
+    - khorne@aur
+  licenses:
+    - BSD-3-Clause
+- repo: aur
+  srcname: durdraw-git
+  binname: durdraw-git
+  visiblename: durdraw-git
+  version: "20220216"
+  origversion: 20220216-1
+  status: rolling
+  summary: Frame based ASCII and ANSI drawing and playback program
+  maintainers:
+    - keenerd@aur
+  licenses:
+    - custom
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: durdraw
+  binnames:
+    - durdraw
+  visiblename: durdraw
+  version: 0.29.0
+  origversion: 0.29.0-2
+  status: outdated
+  maintainers:
+    - tar@debian.org
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: durdraw
+  binnames:
+    - durdraw
+  visiblename: durdraw
+  version: 0.29.0
+  origversion: 0.29.0-4
+  status: outdated
+  maintainers:
+    - tar@debian.org
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: durdraw
+  binnames:
+    - durdraw
+  visiblename: durdraw
+  version: 0.30.0
+  origversion: 0.30.0-1
+  status: outdated
+  maintainers:
+    - tar@debian.org
+  categories:
+    - misc
+- repo: deepin_25
+  subrepo: community
+  srcname: durdraw
+  binnames:
+    - durdraw
+  visiblename: durdraw
+  version: 0.28.0
+  origversion: 0.28.0-1
+  status: outdated
+  maintainers:
+    - tar@debian.org
+  categories:
+    - graphics
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: durdraw
+  binnames:
+    - durdraw
+  visiblename: durdraw
+  version: 0.30.0
+  origversion: 0.30.0-1
+  status: outdated
+  maintainers:
+    - tar@debian.org
+  categories:
+    - misc
+- repo: freebsd
+  srcname: graphics/durdraw
+  binname: durdraw
+  visiblename: graphics/durdraw
+  version: 0.29.0
+  origversion: null
+  status: outdated
+  summary: ASCII and ANSI Art text editor for drawing in the terminal
+  maintainers:
+    - yuri@freebsd.org
+  categories:
+    - graphics
+- repo: gentoo_ovl_guru
+  srcname: app-misc/durdraw
+  visiblename: app-misc/durdraw
+  version: 0.29.0
+  origversion: null
+  status: outdated
+  summary: Versatile ASCII and ANSI Art text editor for drawing
+  maintainers:
+    - kupravagoodman@proton.me
+  licenses:
+    - BSD
+  categories:
+    - app-misc
+- repo: homebrew
+  srcname: durdraw
+  visiblename: durdraw
+  version: 0.30.1
+  origversion: null
+  status: newest
+  summary: Versatile ASCII and ANSI Art text editor for drawing in the terminal
+- repo: homebrew
+  srcname: durdraw
+  visiblename: durdraw
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Versatile ASCII and ANSI Art text editor for drawing in the terminal
+- repo: liguros_stable
+  srcname: app-misc/durdraw
+  visiblename: app-misc/durdraw
+  version: 0.29.0
+  origversion: null
+  status: outdated
+  summary: Versatile ASCII and ANSI Art text editor for drawing
+  maintainers:
+    - kupravagoodman@proton.me
+  licenses:
+    - BSD
+  categories:
+    - app-misc
+- repo: liguros_develop
+  srcname: app-misc/durdraw
+  visiblename: app-misc/durdraw
+  version: 0.29.0
+  origversion: null
+  status: outdated
+  summary: Versatile ASCII and ANSI Art text editor for drawing
+  maintainers:
+    - kupravagoodman@proton.me
+  licenses:
+    - BSD
+  categories:
+    - app-misc
 - repo: mx_21_testing
   srcname: durdraw
   binnames:
@@ -87,179 +254,12 @@
     - tar@debian.org
   categories:
     - misc
-- repo: aur
-  srcname: durdraw
-  binname: durdraw
-  visiblename: durdraw
-  version: 0.29.0
-  origversion: 0.29.0-2
-  status: outdated
-  summary: Frame based ASCII and ANSI drawing and playback program
-  maintainers:
-    - khorne@aur
-  licenses:
-    - BSD-3-Clause
-- repo: aur
-  srcname: durdraw-git
-  binname: durdraw-git
-  visiblename: durdraw-git
-  version: "20220216"
-  origversion: 20220216-1
-  status: rolling
-  summary: Frame based ASCII and ANSI drawing and playback program
-  maintainers:
-    - keenerd@aur
-  licenses:
-    - custom
-- repo: debian_13
-  subrepo: trixie/main
-  srcname: durdraw
-  binnames:
-    - durdraw
-  visiblename: durdraw
-  version: 0.29.0
-  origversion: 0.29.0-2
-  status: outdated
-  maintainers:
-    - tar@debian.org
-  categories:
-    - misc
-- repo: debian_14
-  subrepo: forky/main
-  srcname: durdraw
-  binnames:
-    - durdraw
-  visiblename: durdraw
-  version: 0.29.0
-  origversion: 0.29.0-4
-  status: outdated
-  maintainers:
-    - tar@debian.org
-  categories:
-    - misc
-- repo: debian_unstable
-  subrepo: sid/main
-  srcname: durdraw
-  binnames:
-    - durdraw
-  visiblename: durdraw
-  version: 0.30.0
-  origversion: 0.30.0-1
-  status: newest
-  maintainers:
-    - tar@debian.org
-  categories:
-    - misc
-- repo: deepin_25
-  subrepo: community
-  srcname: durdraw
-  binnames:
-    - durdraw
-  visiblename: durdraw
-  version: 0.28.0
-  origversion: 0.28.0-1
-  status: outdated
-  maintainers:
-    - tar@debian.org
-  categories:
-    - graphics
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: durdraw
-  binnames:
-    - durdraw
-  visiblename: durdraw
-  version: 0.30.0
-  origversion: 0.30.0-1
-  status: newest
-  maintainers:
-    - tar@debian.org
-  categories:
-    - misc
-- repo: freebsd
-  srcname: graphics/durdraw
-  binname: durdraw
-  visiblename: graphics/durdraw
-  version: 0.29.0
-  origversion: null
-  status: outdated
-  summary: ASCII and ANSI Art text editor for drawing in the terminal
-  maintainers:
-    - yuri@freebsd.org
-  categories:
-    - graphics
-- repo: gentoo_ovl_guru
-  srcname: app-misc/durdraw
-  visiblename: app-misc/durdraw
-  version: 0.29.0
-  origversion: null
-  status: outdated
-  summary: Versatile ASCII and ANSI Art text editor for drawing
-  maintainers:
-    - kupravagoodman@proton.me
-  licenses:
-    - BSD
-  categories:
-    - app-misc
-- repo: homebrew
-  srcname: durdraw
-  visiblename: durdraw
-  version: 0.30.0
-  origversion: null
-  status: newest
-  summary: Versatile ASCII and ANSI Art text editor for drawing in the terminal
-- repo: homebrew
-  srcname: durdraw
-  visiblename: durdraw
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Versatile ASCII and ANSI Art text editor for drawing in the terminal
-- repo: kali_rolling
-  subrepo: main
-  srcname: durdraw
-  binnames:
-    - durdraw
-  visiblename: durdraw
-  version: 0.29.0
-  origversion: 0.29.0-4
-  status: outdated
-  maintainers:
-    - tar@debian.org
-  categories:
-    - misc
-- repo: liguros_stable
-  srcname: app-misc/durdraw
-  visiblename: app-misc/durdraw
-  version: 0.29.0
-  origversion: null
-  status: outdated
-  summary: Versatile ASCII and ANSI Art text editor for drawing
-  maintainers:
-    - kupravagoodman@proton.me
-  licenses:
-    - BSD
-  categories:
-    - app-misc
-- repo: liguros_develop
-  srcname: app-misc/durdraw
-  visiblename: app-misc/durdraw
-  version: 0.29.0
-  origversion: null
-  status: outdated
-  summary: Versatile ASCII and ANSI Art text editor for drawing
-  maintainers:
-    - kupravagoodman@proton.me
-  licenses:
-    - BSD
-  categories:
-    - app-misc
 - repo: t2
   srcname: durdraw
   visiblename: durdraw
   version: 0.30.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Versatile ASCII and ANSI Art text editor
   maintainers:
     - rene@exactco.de
