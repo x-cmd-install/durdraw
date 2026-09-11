@@ -14,14 +14,14 @@ x install durdraw
 
 ## Code insight
 
-Total: **14,092** lines of code across **84** files in the top 5 languages.
+Total: **14,099** lines of code across **84** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Python | 12,908 | 2,195 | 1,499 | 56 |
 | Ini | 690 | 233 | 102 | 25 |
 | Xml | 330 | 0 | 0 | 1 |
-| Toml | 52 | 6 | 8 | 1 |
+| Toml | 59 | 1 | 8 | 1 |
 | Nix | 44 | 0 | 3 | 1 |
 
 ## Source
@@ -32,8 +32,8 @@ Total: **14,092** lines of code across **84** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `0.30.0` (2026-09-08)
-- **Last commit**: 2026-09-09
+- **Latest**: `0.30.1` (2026-09-11)
+- **Last commit**: 2026-09-11
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **14,092** lines of code across **84** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 66 · **Open PRs**: 0 · **Closed issues**: 38 · **Open issues**: 4 · **Commits**: 1033
+- **Releases**: 43 · **Merged PRs**: 67 · **Open PRs**: 0 · **Closed issues**: 38 · **Open issues**: 4 · **Commits**: 1037
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-12 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-14 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-20 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-12 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-15 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-16 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-21 | 4 | 0 | 0 | 0 | 0 | 0 |
 
 ## Distribution status
 
@@ -76,4 +76,4 @@ Install metadata for durdraw lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:36:13Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:37:18Z._
