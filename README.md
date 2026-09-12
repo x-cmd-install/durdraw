@@ -47,20 +47,20 @@ Total: **14,226** lines of code across **85** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-13 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-13 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-15 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-16 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-21 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-13 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-14 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-14 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-16 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-17 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-22 | 4 | 0 | 0 | 0 | 0 | 0 |
 
 ## Distribution status
 
-Reported by **27** distros on [repology.org](https://repology.org/project/durdraw). **1** are ✅ on the latest upstream release, **24** are ⚠️ on an older version.
+Reported by **27** distros on [repology.org](https://repology.org/project/durdraw). **3** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `0.30.0` | ⚠️ outdated |
+| Debian unstable | `0.30.1` | ✅ latest |
 | Debian 14 | `0.29.0` | ⚠️ outdated |
 | Debian 13 | `0.29.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.29.0` | ⚠️ outdated |
@@ -76,4 +76,4 @@ Install metadata for durdraw lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:31:44Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T04:27:06Z._
