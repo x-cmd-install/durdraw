@@ -1,4 +1,4 @@
-- repo: kali_rolling
+- repo: raspbian_testing
   subrepo: main
   srcname: durdraw
   binnames:
@@ -67,9 +67,9 @@
   binnames:
     - durdraw
   visiblename: durdraw
-  version: 0.30.0
-  origversion: 0.30.0-1
-  status: outdated
+  version: 0.30.1
+  origversion: 0.30.1-1
+  status: newest
   maintainers:
     - tar@debian.org
   categories:
@@ -93,9 +93,9 @@
   binnames:
     - durdraw
   visiblename: durdraw
-  version: 0.30.0
-  origversion: 0.30.0-1
-  status: outdated
+  version: 0.30.1
+  origversion: 0.30.1-1
+  status: newest
   maintainers:
     - tar@debian.org
   categories:
@@ -139,6 +139,19 @@
   origversion: null
   status: rolling
   summary: Versatile ASCII and ANSI Art text editor for drawing in the terminal
+- repo: kali_rolling
+  subrepo: main
+  srcname: durdraw
+  binnames:
+    - durdraw
+  visiblename: durdraw
+  version: 0.29.0
+  origversion: 0.29.0-4
+  status: outdated
+  maintainers:
+    - tar@debian.org
+  categories:
+    - misc
 - repo: liguros_stable
   srcname: app-misc/durdraw
   visiblename: app-misc/durdraw
@@ -236,19 +249,6 @@
   visiblename: durdraw
   version: 0.29.0
   origversion: 0.29.0-2
-  status: outdated
-  maintainers:
-    - tar@debian.org
-  categories:
-    - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: durdraw
-  binnames:
-    - durdraw
-  visiblename: durdraw
-  version: 0.29.0
-  origversion: 0.29.0-4
   status: outdated
   maintainers:
     - tar@debian.org
