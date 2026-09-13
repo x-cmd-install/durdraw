@@ -1,16 +1,3 @@
-- repo: raspbian_testing
-  subrepo: main
-  srcname: durdraw
-  binnames:
-    - durdraw
-  visiblename: durdraw
-  version: 0.29.0
-  origversion: 0.29.0-4
-  status: outdated
-  maintainers:
-    - tar@debian.org
-  categories:
-    - misc
 - repo: aur
   srcname: durdraw
   binname: durdraw
@@ -254,12 +241,25 @@
     - tar@debian.org
   categories:
     - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: durdraw
+  binnames:
+    - durdraw
+  visiblename: durdraw
+  version: 0.29.0
+  origversion: 0.29.0-4
+  status: outdated
+  maintainers:
+    - tar@debian.org
+  categories:
+    - misc
 - repo: t2
   srcname: durdraw
   visiblename: durdraw
-  version: 0.30.0
+  version: 0.30.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Versatile ASCII and ANSI Art text editor
   maintainers:
     - rene@exactco.de
