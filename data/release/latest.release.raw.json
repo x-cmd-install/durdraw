@@ -43,10 +43,10 @@
   "body": "0.30.1 changes:\r\n\r\n* Fixed pyproject.toml file, including missing examples and msdos folder includes\r\n* Documentation updates\r\n* Added Shine animation effect\r\n",
   "reactions": {
     "url": "https://api.github.com/repos/durdraw/durdraw/releases/386783943/reactions",
-    "total_count": 3,
+    "total_count": 4,
     "+1": 3,
     "-1": 0,
-    "laugh": 0,
+    "laugh": 1,
     "hooray": 0,
     "confused": 0,
     "heart": 0,
