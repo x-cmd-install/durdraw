@@ -4,7 +4,7 @@
 
 Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes
 
-![durdraw](https://repo.x-cmd.io/durdraw.svg)
+[![x-cmd/install — durdraw Code Quality Monitoring Repo Card](https://repo.x-cmd.io/durdraw.svg)](https://x-cmd.com/install/durdraw)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **14,226** lines of code across **85** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,821 · **Forks**: 52 · **Open issues**: 43 · **Contributors**: 11
+- **Stars**: 1,822 · **Forks**: 52 · **Open issues**: 43 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **14,226** lines of code across **85** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-28 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-21 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-25 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-30 | 4 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for durdraw lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:40:12Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:54:42Z._
