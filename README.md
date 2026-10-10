@@ -37,22 +37,22 @@ Total: **14,226** lines of code across **85** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,835 · **Forks**: 56 · **Open issues**: 45 · **Contributors**: 11
+- **Stars**: 1,836 · **Forks**: 56 · **Open issues**: 45 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 71 · **Open PRs**: 0 · **Closed issues**: 39 · **Open issues**: 6 · **Commits**: 1041
+- **Releases**: 43 · **Merged PRs**: 71 · **Open PRs**: 0 · **Closed issues**: 38 · **Open issues**: 7 · **Commits**: 1041
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-09 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-10 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-11 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-13 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-18 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-10 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-11 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-12 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-13 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-15 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-20 | 3 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for durdraw lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:17:50Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:47:40Z._
