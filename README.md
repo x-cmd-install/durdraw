@@ -14,14 +14,14 @@ x install durdraw
 
 ## Code insight
 
-Total: **14,226** lines of code across **85** files in the top 5 languages.
+Total: **15,408** lines of code across **97** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 13,035 | 2,206 | 1,533 | 57 |
-| Ini | 690 | 233 | 102 | 25 |
+| Python | 14,205 | 2,158 | 1,805 | 68 |
+| Ini | 699 | 235 | 103 | 26 |
 | Xml | 330 | 0 | 0 | 1 |
-| Toml | 59 | 1 | 8 | 1 |
+| Toml | 62 | 1 | 10 | 1 |
 | Nix | 44 | 0 | 3 | 1 |
 
 ## Source
@@ -32,27 +32,27 @@ Total: **14,226** lines of code across **85** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `0.30.1` (2026-09-11)
-- **Last commit**: 2026-09-11
+- **Latest**: `0.31.0` (2026-10-16)
+- **Last commit**: 2026-10-16
 
 ## Popularity
 
-- **Stars**: 1,841 · **Forks**: 56 · **Open issues**: 45 · **Contributors**: 11
+- **Stars**: 1,844 · **Forks**: 56 · **Open issues**: 45 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 43 · **Merged PRs**: 71 · **Open PRs**: 0 · **Closed issues**: 38 · **Open issues**: 7 · **Commits**: 1041
+- **Releases**: 44 · **Merged PRs**: 73 · **Open PRs**: 0 · **Closed issues**: 38 · **Open issues**: 7 · **Commits**: 1147
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-17 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-18 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-19 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-21 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-26 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-17 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-18 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-19 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-20 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-22 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-27 | 4 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for durdraw lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:21:09Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:13:50Z._
