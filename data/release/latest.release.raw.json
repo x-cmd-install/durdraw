@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/durdraw/durdraw/releases/386783943",
-  "assets_url": "https://api.github.com/repos/durdraw/durdraw/releases/386783943/assets",
-  "upload_url": "https://uploads.github.com/repos/durdraw/durdraw/releases/386783943/assets{?name,label}",
-  "html_url": "https://github.com/durdraw/durdraw/releases/tag/0.30.1",
-  "id": 386783943,
+  "url": "https://api.github.com/repos/durdraw/durdraw/releases/414540627",
+  "assets_url": "https://api.github.com/repos/durdraw/durdraw/releases/414540627/assets",
+  "upload_url": "https://uploads.github.com/repos/durdraw/durdraw/releases/414540627/assets{?name,label}",
+  "html_url": "https://github.com/durdraw/durdraw/releases/tag/0.31.0",
+  "id": 414540627,
   "author": {
     "login": "cmang",
     "id": 261501,
@@ -25,32 +25,33 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOARWzfM4XDdrH",
-  "tag_name": "0.30.1",
+  "node_id": "RE_kwDOARWzfM4YtWNT",
+  "tag_name": "0.31.0",
   "target_commitish": "master",
-  "name": "Durdraw 0.30.1",
+  "name": "Durdraw 0.31.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-11T04:17:55Z",
-  "updated_at": "2026-09-11T18:30:51Z",
-  "published_at": "2026-09-11T04:21:58Z",
+  "created_at": "2026-10-16T04:26:33Z",
+  "updated_at": "2026-10-16T04:59:59Z",
+  "published_at": "2026-10-16T04:32:25Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/durdraw/durdraw/tarball/0.30.1",
-  "zipball_url": "https://api.github.com/repos/durdraw/durdraw/zipball/0.30.1",
-  "body": "0.30.1 changes:\r\n\r\n* Fixed pyproject.toml file, including missing examples and msdos folder includes\r\n* Documentation updates\r\n* Added Shine animation effect\r\n",
+  "tarball_url": "https://api.github.com/repos/durdraw/durdraw/tarball/0.31.0",
+  "zipball_url": "https://api.github.com/repos/durdraw/durdraw/zipball/0.31.0",
+  "body": "0.31.0 changes:\r\n\r\nDurdraw:\r\n* New default mouse mode: Select (click and drag to draw selection area, or just click to move cursor)\r\n* Animation brushes! (inspired by Deluxe Paint for Amiga)\r\n    * To Make: Select -> New Brush -> Animation Brush\r\n    * To Use: Mouse Tools menu -> Animation Brush (esc-t, a)\r\n    * Frame preview appears under mouse cursor. Click to paste frame and advance to the next brush and canvas frames.\r\n    * Loop mode Loops around existing frames\r\n    * Clone mode clones current frame, pastes frame, and advances to next frame\r\n    * In Animation Brush mode, alt-J goes to the previous and alt-K goes to the next frame in the brush\r\n* Menu UI changes:\r\n    * Main Menu renamed to File menu (esc-f or alt-f)\r\n    * Edit menu moved to status bar (esc-e or alt-e)\r\n    * Mouse Tools menu renamed to Mouse menu (esc-m or alt-m)\r\n    * Settings menu moved to Edit menu\r\n* Status bar UI changes:\r\n    * Mouse mode (move/draw/etc) moved to bottom-right corner\r\n    * Animation stuff (FPS, F:, D:, R:) anchored farther right, to make room for Edit menu\r\n    * Frame Scrubbing: Hover mouse over F: area to change frames with scroll wheel\r\n    * Hover mouse over FPS to change frame rate with scroll wheel (also during playback mode)\r\n    * Hover mouse over F1..F10 characters to change character groups with scroll wheel\r\n    * Removed |< and >| (first and last frame) buttons from the transport... I don't think anyone was actually using them?\r\n* Insert mode (like a text editor): Toggle Insert mode with Insert key, or Edit -> Insert Mode\r\n* Paste colors only (no characters) from the clipboard (Edit -> Paste Colors)\r\n* Better mouse responsiveness\r\n* New example art: tux-pizza, dur-welcome1, dur-welcome2, dur-welcome3\r\n* Fire Behind effect now operates on existing frames, instead of making new ones\r\n* Config file is now loaded in the following path order:\r\n    /etc/durdraw/durdraw.ini\r\n    ~/.durdraw/durdraw.ini\r\n    ~/.config/durdraw/durdraw.ini\r\n* Export menu added: ansi, ascii, gif, png, html, irc, json\r\n* Help file updates:\r\n    * Expanded User Interface section.\r\n    * Added Mouse, Brushes and Animation Brushes  sections.\r\n    * Added contributors and license\r\n* Updated and expanded man page\r\n* Various bug fixes\r\n\r\nDurview:\r\n* Stopped border, color picker and drawing character from flashing on the screen when durview is running\r\n* Next and previous file commands \"n\" and \"p\" (Thanks @mevanlc!)\r\n* 16colo.rs browsing filters by file extension (thanks again @mevanlc!)\r\n\r\nDurfetch:\r\n* Updated Arch animation, added some particle stuff\r\n* New animation: linux-tux-pizza\r\n* Fix for missing fields (DE, WM, GPU and Res) that broke in Fastfetch 2.68.1 (Thanks @tahuffman1s!)\r\n",
   "reactions": {
-    "url": "https://api.github.com/repos/durdraw/durdraw/releases/386783943/reactions",
-    "total_count": 5,
-    "+1": 4,
+    "url": "https://api.github.com/repos/durdraw/durdraw/releases/414540627/reactions",
+    "total_count": 4,
+    "+1": 1,
     "-1": 0,
-    "laugh": 1,
-    "hooray": 0,
+    "laugh": 0,
+    "hooray": 3,
     "confused": 0,
     "heart": 0,
     "rocket": 0,
     "eyes": 0
-  }
+  },
+  "mentions_count": 2
 }
