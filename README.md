@@ -14,11 +14,11 @@ x install durdraw
 
 ## Code insight
 
-Total: **15,408** lines of code across **97** files in the top 5 languages.
+Total: **15,517** lines of code across **98** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 14,205 | 2,158 | 1,805 | 68 |
+| Python | 14,314 | 2,184 | 1,839 | 69 |
 | Ini | 699 | 235 | 103 | 26 |
 | Xml | 330 | 0 | 0 | 1 |
 | Toml | 62 | 1 | 10 | 1 |
@@ -32,27 +32,27 @@ Total: **15,408** lines of code across **97** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `0.31.0` (2026-10-16)
-- **Last commit**: 2026-10-16
+- **Latest**: `0.31.1` (2026-10-19)
+- **Last commit**: 2026-10-19
 
 ## Popularity
 
-- **Stars**: 1,845 · **Forks**: 56 · **Open issues**: 45 · **Contributors**: 13
+- **Stars**: 1,846 · **Forks**: 56 · **Open issues**: 45 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 73 · **Open PRs**: 0 · **Closed issues**: 38 · **Open issues**: 7 · **Commits**: 1147
+- **Releases**: 45 · **Merged PRs**: 74 · **Open PRs**: 0 · **Closed issues**: 38 · **Open issues**: 7 · **Commits**: 1156
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-20 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-21 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-22 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-24 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-29 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-20 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-21 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-22 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-23 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-25 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-30 | 5 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for durdraw lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:31:15Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:39:41Z._
