@@ -40,5 +40,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/durdraw/durdraw/tarball/0.31.1",
   "zipball_url": "https://api.github.com/repos/durdraw/durdraw/zipball/0.31.1",
-  "body": "0.31.1 changes:\r\n\r\n* Added new 0.31.0 contributors to help screens\r\n* Narrower Mouse menu\r\n* Fix Plasma and Plasma Overlay effects' color range to accurately reflect user selection\r\n* Fixed Fire effect to operate over existing frames instead of making new ones\r\n* New effect, Fire Jet: another fire effect, with directional control"
+  "body": "0.31.1 changes:\r\n\r\n* Added new 0.31.0 contributors to help screens\r\n* Narrower Mouse menu\r\n* Fix Plasma and Plasma Overlay effects' color range to accurately reflect user selection\r\n* Fixed Fire effect to operate over existing frames instead of making new ones\r\n* New effect, Fire Jet: another fire effect, with directional control",
+  "reactions": {
+    "url": "https://api.github.com/repos/durdraw/durdraw/releases/417264685/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
