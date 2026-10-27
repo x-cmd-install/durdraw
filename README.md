@@ -37,31 +37,31 @@ Total: **15,517** lines of code across **98** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,849 · **Forks**: 56 · **Open issues**: 45 · **Contributors**: 13
+- **Stars**: 1,849 · **Forks**: 56 · **Open issues**: 46 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 74 · **Open PRs**: 0 · **Closed issues**: 38 · **Open issues**: 7 · **Commits**: 1156
+- **Releases**: 45 · **Merged PRs**: 74 · **Open PRs**: 0 · **Closed issues**: 38 · **Open issues**: 8 · **Commits**: 1156
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-27 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-28 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-29 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-31 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-05 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-27 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-28 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-29 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-30 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-01 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-06 | 5 | 0 | 0 | 0 | 0 | 0 |
 
 ## Distribution status
 
-Reported by **28** distros on [repology.org](https://repology.org/project/durdraw). **4** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
+Reported by **28** distros on [repology.org](https://repology.org/project/durdraw). **6** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `0.31.1` | ✅ latest |
-| Debian 14 | `0.30.1` | ⚠️ outdated |
+| Debian 14 | `0.31.1` | ✅ latest |
 | Debian 13 | `0.29.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.29.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.25.3` | ⚠️ outdated |
@@ -77,4 +77,4 @@ Install metadata for durdraw lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:34:29Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T04:53:31Z._
