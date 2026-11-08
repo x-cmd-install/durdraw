@@ -41,22 +41,22 @@ Total: **15,517** lines of code across **98** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 74 · **Open PRs**: 0 · **Closed issues**: 39 · **Open issues**: 7 · **Commits**: 1156
+- **Releases**: 45 · **Merged PRs**: 74 · **Open PRs**: 0 · **Closed issues**: 40 · **Open issues**: 6 · **Commits**: 1156
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-08 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-09 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-11 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-12 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-17 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-09 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-09 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-10 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-12 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-13 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-18 | 5 | 0 | 0 | 0 | 0 | 0 |
 
 ## Distribution status
 
-Reported by **29** distros on [repology.org](https://repology.org/project/durdraw). **8** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
+Reported by **30** distros on [repology.org](https://repology.org/project/durdraw). **9** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -77,4 +77,4 @@ Install metadata for durdraw lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T05:51:21Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T05:54:31Z._
