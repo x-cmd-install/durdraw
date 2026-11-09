@@ -1,3 +1,29 @@
+- repo: raspbian_testing
+  subrepo: main
+  srcname: durdraw
+  binnames:
+    - durdraw
+  visiblename: durdraw
+  version: 0.31.1
+  origversion: 0.31.1-1
+  status: newest
+  maintainers:
+    - tar@debian.org
+  categories:
+    - misc
+- repo: t2
+  srcname: durdraw
+  visiblename: durdraw
+  version: 0.31.1
+  origversion: null
+  status: newest
+  summary: Versatile ASCII and ANSI Art text editor
+  maintainers:
+    - rene@exactco.de
+  licenses:
+    - BSD
+  categories:
+    - extra/graphic
 - repo: aur
   srcname: durdraw
   binname: durdraw
@@ -87,6 +113,19 @@
     - tar@debian.org
   categories:
     - misc
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: durdraw
+  binnames:
+    - durdraw
+  visiblename: durdraw
+  version: 0.28.0
+  origversion: 0.28.0-1
+  status: outdated
+  maintainers:
+    - tar@debian.org
+  categories:
+    - universe/misc
 - repo: freebsd
   srcname: graphics/durdraw
   binname: durdraw
@@ -252,32 +291,6 @@
     - tar@debian.org
   categories:
     - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: durdraw
-  binnames:
-    - durdraw
-  visiblename: durdraw
-  version: 0.31.1
-  origversion: 0.31.1-1
-  status: newest
-  maintainers:
-    - tar@debian.org
-  categories:
-    - misc
-- repo: t2
-  srcname: durdraw
-  visiblename: durdraw
-  version: 0.31.1
-  origversion: null
-  status: newest
-  summary: Versatile ASCII and ANSI Art text editor
-  maintainers:
-    - rene@exactco.de
-  licenses:
-    - BSD
-  categories:
-    - extra/graphic
 - repo: ubuntu_24_04
   subrepo: noble/universe
   srcname: durdraw
@@ -286,19 +299,6 @@
   visiblename: durdraw
   version: 0.25.3
   origversion: 0.25.3-1
-  status: outdated
-  maintainers:
-    - tar@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_25_04
-  subrepo: plucky/universe
-  srcname: durdraw
-  binnames:
-    - durdraw
-  visiblename: durdraw
-  version: 0.28.0
-  origversion: 0.28.0-1
   status: outdated
   maintainers:
     - tar@debian.org
@@ -345,19 +345,6 @@
     - universe/misc
 - repo: ubuntu_27_04
   subrepo: tenacious/universe
-  srcname: durdraw
-  binnames:
-    - durdraw
-  visiblename: durdraw
-  version: 0.29.0
-  origversion: 0.29.0-4
-  status: outdated
-  maintainers:
-    - tar@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_27_04_proposed
-  subrepo: tenacious-proposed/universe
   srcname: durdraw
   binnames:
     - durdraw
