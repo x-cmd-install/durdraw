@@ -26,7 +26,7 @@ x install durdraw
 
 ## 源代码
 
-- **上游仓库**: <https://github.com/cmang/durdraw>
+- **上游仓库**: <https://github.com/durdraw/durdraw>
 - **官网**: <http://durdraw.org>
 - **许可证**: BSD-3-Clause
 

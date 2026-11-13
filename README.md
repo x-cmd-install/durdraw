@@ -26,7 +26,7 @@ Total: **15,517** lines of code across **98** files in the top 5 languages.
 
 ## Source
 
-- **Upstream**: <https://github.com/cmang/durdraw>
+- **Upstream**: <https://github.com/durdraw/durdraw>
 - **Homepage**: <http://durdraw.org>
 - **License**: BSD-3-Clause
 
