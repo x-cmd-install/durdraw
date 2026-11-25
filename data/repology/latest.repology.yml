@@ -1,13 +1,92 @@
-- repo: aur
+- repo: parrot
+  subrepo: parrot-updates/main
   srcname: durdraw
-  binname: durdraw
+  binnames:
+    - durdraw
   visiblename: durdraw
   version: 0.29.0
   origversion: 0.29.0-2
   status: outdated
+  maintainers:
+    - tar@debian.org
+  categories:
+    - misc
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: durdraw
+  binnames:
+    - durdraw
+  visiblename: durdraw
+  version: 0.29.0
+  origversion: 0.29.0-2
+  status: outdated
+  maintainers:
+    - tar@debian.org
+  categories:
+    - python
+- repo: raspbian_stable
+  subrepo: main
+  srcname: durdraw
+  binnames:
+    - durdraw
+  visiblename: durdraw
+  version: 0.29.0
+  origversion: 0.29.0-2
+  status: outdated
+  maintainers:
+    - tar@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: durdraw
+  binnames:
+    - durdraw
+  visiblename: durdraw
+  version: 0.31.1
+  origversion: 0.31.1-1
+  status: newest
+  maintainers:
+    - tar@debian.org
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: durdraw
+  binnames:
+    - durdraw
+  visiblename: durdraw
+  version: 0.31.1
+  origversion: 0.31.1-1
+  status: newest
+  maintainers:
+    - tar@debian.org
+  categories:
+    - misc
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
+  srcname: durdraw
+  binnames:
+    - durdraw
+  visiblename: durdraw
+  version: 0.28.0
+  origversion: 0.28.0-1
+  status: outdated
+  maintainers:
+    - tar@debian.org
+  categories:
+    - universe/misc
+- repo: aur
+  srcname: durdraw
+  binname: durdraw
+  visiblename: durdraw
+  version: 0.31.1
+  origversion: 0.31.1-1
+  status: newest
   summary: Frame based ASCII and ANSI drawing and playback program
   maintainers:
     - khorne@aur
+    - aetherh4cker@aur
   licenses:
     - BSD-3-Clause
 - repo: aur
@@ -74,19 +153,6 @@
     - tar@debian.org
   categories:
     - graphics
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: durdraw
-  binnames:
-    - durdraw
-  visiblename: durdraw
-  version: 0.31.1
-  origversion: 0.31.1-1
-  status: newest
-  maintainers:
-    - tar@debian.org
-  categories:
-    - misc
 - repo: freebsd
   srcname: graphics/durdraw
   binname: durdraw
@@ -201,19 +267,6 @@
   licenses:
     - BSD-3-Clause
 - repo: parrot
-  subrepo: parrot-updates/main
-  srcname: durdraw
-  binnames:
-    - durdraw
-  visiblename: durdraw
-  version: 0.29.0
-  origversion: 0.29.0-2
-  status: outdated
-  maintainers:
-    - tar@debian.org
-  categories:
-    - misc
-- repo: parrot
   subrepo: parrot/main
   srcname: durdraw
   binnames:
@@ -222,45 +275,6 @@
   version: 0.29.0
   origversion: 0.29.0-2
   status: outdated
-  maintainers:
-    - tar@debian.org
-  categories:
-    - misc
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: durdraw
-  binnames:
-    - durdraw
-  visiblename: durdraw
-  version: 0.29.0
-  origversion: 0.29.0-2
-  status: outdated
-  maintainers:
-    - tar@debian.org
-  categories:
-    - python
-- repo: raspbian_stable
-  subrepo: main
-  srcname: durdraw
-  binnames:
-    - durdraw
-  visiblename: durdraw
-  version: 0.29.0
-  origversion: 0.29.0-2
-  status: outdated
-  maintainers:
-    - tar@debian.org
-  categories:
-    - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: durdraw
-  binnames:
-    - durdraw
-  visiblename: durdraw
-  version: 0.31.1
-  origversion: 0.31.1-1
-  status: newest
   maintainers:
     - tar@debian.org
   categories:
@@ -286,19 +300,6 @@
   visiblename: durdraw
   version: 0.25.3
   origversion: 0.25.3-1
-  status: outdated
-  maintainers:
-    - tar@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_25_04
-  subrepo: plucky/universe
-  srcname: durdraw
-  binnames:
-    - durdraw
-  visiblename: durdraw
-  version: 0.28.0
-  origversion: 0.28.0-1
   status: outdated
   maintainers:
     - tar@debian.org
