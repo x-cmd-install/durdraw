@@ -37,7 +37,7 @@ Total: **15,517** lines of code across **98** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,869 · **Forks**: 57 · **Open issues**: 47 · **Contributors**: 13
+- **Stars**: 1,872 · **Forks**: 57 · **Open issues**: 47 · **Contributors**: 13
 
 ## Totals (cumulative)
 
@@ -47,12 +47,26 @@ Total: **15,517** lines of code across **98** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-28 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-30 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-12-01 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-06 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-29 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-31 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-02 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-07 | 5 | 0 | 0 | 0 | 0 | 0 |
+
+## Distribution status
+
+Reported by **29** distros on [repology.org](https://repology.org/project/durdraw). **10** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.31.1` | ✅ latest |
+| Debian 14 | `0.31.1` | ✅ latest |
+| Debian 13 | `0.29.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.29.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `0.25.3` | ⚠️ outdated |
+| Homebrew | `0.31.1` | ✅ latest |
+| Nix unstable | `0.31.1` | ✅ latest |
 
 ## Improve this data
 
@@ -63,4 +77,4 @@ Install metadata for durdraw lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:11:31Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:13:16Z._
